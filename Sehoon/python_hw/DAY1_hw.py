@@ -1,0 +1,9 @@
+hs=3
+sh=2
+print(hs+sh)
+print(hs-sh)
+print(hs*sh)
+print(hs/sh)
+print(hs**sh)
+print(hs//sh)
+print(hs%sh)
