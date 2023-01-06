@@ -20,10 +20,3 @@
 # print(10//3)
 # print(10%3)
 # print(orange%apple)
-
-print(5**2)
-print(2**5)
-print(2**10)
-
-print(100//3)
-print(100%3)
