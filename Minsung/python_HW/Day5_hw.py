@@ -33,7 +33,7 @@ print(f[2])
 print(f[-3])
 
 g=[1,2,3,4]
-print(g.index(2))
+print(g.index(4))
 
 h=[1,2,3,4,3,3,4]
 print(h.count(3))
